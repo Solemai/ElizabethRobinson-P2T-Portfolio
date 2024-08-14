@@ -8,29 +8,29 @@ import { FaGithub } from "react-icons/fa6";
 // You can also add more properties if you want to display more information about your projects.
 const myProjects = [
   {
-    title: 'Project 1',
-    description: 'Description of project 1',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'HTML Project: Food Preferences',
+    description: 'A project to use HTML to create a webpage form to select food preferences',
+    repositoryLink: 'https://github.com/Solemai/HTML-Project-Food-Preferences.git',
   },
   {
-    title: 'Project 2',
-    description: 'Description of project 2',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'CSS Project: Welcome to the Enchanted Boutique',
+    description: 'A project to showcase CSS stylings on a store webpage',
+    repositoryLink: 'https://github.com/Solemai/CSS-Project-Enchanted-Boutique.git',
   },
   {
-    title: 'Project 3',
-    description: 'Description of project 3',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'JavaScript Mini-Project: Magic 8 Ball',
+    description: 'A JavaScript file to showcase a "Magic 8 Ball" to generate a random response whenever the code is ran',
+    repositoryLink: 'https://github.com/Solemai/JSMiniProject-Magic8Ball.git',
   },
   {
-    title: 'Project 4',
-    description: 'Description of project 4',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'JavaScript Mini-Project: Store App - Bejeweled Teas',
+    description: 'A JavaScript file for a store front that allows the user to output bought items',
+    repositoryLink: 'https://github.com/Solemai/JSMiniProject-StoreApp.git',
   },
   {
-    title: 'Project 5',
-    description: 'Description of project 5',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'DangoDot: Anime Streaming Site',
+    description: 'Capstone Project for an Anime streaming site to showcase HTML/CSS/JS and other technologies in React',
+    repositoryLink: 'https://github.com/Solemai/DangoDot.git',
   },
 ];
 const Projects = () => {
